@@ -77,21 +77,25 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
 
 ## 📌 Projects
 
-### E-commerce Solution for Ifox Solutions
-- **Tech Stack:** Shopify, Liquid, PHP, JavaScript
-- **Description:** Developed a fully customized Shopify store for a client, focusing on seamless user experience and robust functionality.
-- **Features:** Custom theme design, app integrations, and performance optimization
+### E-commerce Solution for Maroon Saga
+- **Tech Stack:** Django, jQuery, Ajax, Javascript, HTML & CSS
+- **Description:** Developed and Designed a fully customized e-commerce store based on Django for Maroon Saga, focusing on seamless user experience and robust functionality and boosting business online!
 
-### Custom WordPress Website
-- **Tech Stack:** WordPress, PHP, CSS3, WooCommerce
-- **Description:** Built a responsive WordPress website with e-commerce capabilities for a small business.
-- **Features:** WooCommerce integration, SEO optimization, and security enhancements
+### Custom WordPress E-commerce Website for Rohan Prakashan
+- **Tech Stack:** WordPress, WooCommerce, Slider Revolution, Ajax, jQuery, PHP, HTML5, CSS3
+- **Description:** Redesigned their e-commerce store in WordPress, and made a custom coupon and discount plugin to add discounts based on Membership roles.
+- **What I did:** Redesigned their store, Custom Plugin Development, WooCommerce integration, SEO optimization, and Security Enhancements
+
+### Shopify E-commerce store for Utensio - The choice of artisans
+- **Tech Stack:** Shopify, Liquid, jQuery, Ajax, CSS3 HTML5
+- **Description:** Made this e-commerce website for Utensio in Shopify, Made custom sections for showcasing collections, brands and the storyline of Utensio. I also made an auto recommendation upsell section in the cart, and a discount banner in the cart. I also enabled the International Store and Payment gateway for the same.
+- **What I did:** Website Designing, Seo Optimisations, Custom Feature and Theme Customisations
 
 ---
 
 ## 📜 Certifications
 
-- **SEO** - HubSpot Academy
+- **SEO Expert** - HubSpot Academy
 - **HTML and CSS in Depth by Meta** - Coursera
 - **Version Control by Meta** - Coursera
 - **Programming with JavaScript by Meta** - Coursera
