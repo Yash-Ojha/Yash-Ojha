@@ -111,4 +111,8 @@ Happy Coding!!
 
 ---
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yash-Ojha&label=Total+Views&color=red&style=plastic" alt="Yash's Profile View Counter">
+</p>
+
 ![](https://hit.yhype.me/github/profile?account_id=71380586)
