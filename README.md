@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yashrojha/">LinkedIn</a> •
   <a href="mailto:yashrojha@gmail.com">Email</a> •
-  <a href="http://instagram.com/yashrojha">Instagram</a> •
-  <a href="https://x.com/yashrojha">Twitter</a>
+  <a href="https://x.com/yashrojha">Twitter</a> •
+  <a href="http://instagram.com/yashrojha">Instagram</a>
 </p>
 
 ---
@@ -66,6 +66,7 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwind&logoColor=white"/>
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=liquid&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -101,9 +102,12 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
 
 ---
 
-## 💡 Quote
-
-"Code Never Lies Comments Sometimes Do!"
+## 💡 At the End
+⭐ Feel free to Star my repositories if you find it useful!
+📌 Always eager to collaborate, connect, and engage in meaningful discussions!
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+"Code Never Lies Comments Sometimes Do!" - Ron Jefferies
+Happy Coding!!
 
 ---
 
