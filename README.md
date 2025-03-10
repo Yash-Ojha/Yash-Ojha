@@ -1,6 +1,6 @@
 <h1 align="center" style="border: none;">Hi there, I'm Yash Ojha 👋</h1>
 
-<h2 align="center">Crafting Digital Experiences with Code</h2>
+## <p align="center"> Crafting Digital Experiences with Code</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashrojha/">LinkedIn</a> •
