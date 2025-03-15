@@ -1,4 +1,4 @@
-<h1 align="center" style="border: none;">Hi there, I'm Yash Ojha 👋</h1>
+<h1 align="center" style="border: none;">Hey there, I'm Yash Ojha 👋</h1>
 
 ## <p align="center"> Bringing ideas to life through code-driven digital experiences.</p>
 
