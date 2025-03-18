@@ -16,9 +16,9 @@
 **🧑🏻‍💻 Senior Web Developer @ Ifox Solutions**<br>
 **🎓 B.Voc in Software Development @ Tata Institute of Social Sciences**
 
-I'm a Software Developer and Designer with a proven track record in the computer software industry. Currently, I serve as a **Senior Web Developer at Ifox Solutions - WordPress & Shopify Experts**, where I leverage my skills to create impactful digital solutions. My expertise spans diverse technological landscapes, including React.Js, Next.Js, Prisma ORM, Shopify, WordPress, Webflow, TypeScrpit, JavaScript and both front-end and back-end technologies.
+I'm a Software Developer and Designer with a proven track record in the computer software industry. Currently, I serve as a **Senior Web Developer at Ifox Solutions - WordPress & Shopify Experts**, where I leverage my skills to create impactful digital solutions. My expertise spans diverse technological landscapes, including React.Js, Next.Js, Prisma ORM, Shopify, WordPress, Webflow, TypeScript, JavaScript and both front-end and back-end technologies.
 
-I hold a **Bachelor of Vocational Practice in Information Technology** from Tata Institute of Social Sciences. My passion lies in transforming ideas into robust, user-centric solutions, and I strive to stay at the forefront of technology to deliver cutting-edge results that enhance my clients' online presence.
+My **passion** lies in **transforming ideas into robust, user-centric solutions**, and I strive to stay at the forefront of technology to deliver cutting-edge results that enhance my clients' online presence.
 
 ---
 
@@ -101,31 +101,31 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
 ## 📌 Projects
 
 ### E-commerce Solution for Maroon Saga
-- **Tech Stack:** Django, jQuery, Ajax, Javascript, HTML & CSS
-- **Description:** Developed and Designed a fully customized e-commerce store based on Django for Maroon Saga, focusing on seamless user experience and robust functionality and boosting business online!
+**👉🏻 Tech Stack:** Django, jQuery, Ajax, Javascript, HTML & CSS<br>
+**👉🏻 Description:** Developed and Designed a fully customized e-commerce store based on Django for Maroon Saga, focusing on seamless user experience and robust functionality and boosting business online!
 
 ### Custom WordPress E-commerce Website for Rohan Prakashan
-- **Tech Stack:** WordPress, WooCommerce, Slider Revolution, Ajax, jQuery, PHP, HTML5, CSS3
-- **Description:** Redesigned their e-commerce store in WordPress, and made a custom coupon and discount plugin to add discounts based on Membership roles.
-- **What I did:** Redesigned their store, Custom Plugin Development, WooCommerce integration, SEO optimization, and Security Enhancements
+**👉🏻 Tech Stack:** WordPress, WooCommerce, Slider Revolution, Ajax, jQuery, PHP, HTML5, CSS3<br>
+**👉🏻 Description:** Redesigned their e-commerce store in WordPress, and made a custom coupon and discount plugin to add discounts based on Membership roles.<br>
+**👉🏻 What I did:** Redesigned their store, Custom Plugin Development, WooCommerce integration, SEO optimization, and Security Enhancements
 
 ### Shopify E-commerce store for Utensio - The choice of artisans
-- **Tech Stack:** Shopify, Liquid, jQuery, Ajax, CSS3 HTML5
-- **Description:** Made this e-commerce website for Utensio in Shopify, Made custom sections for showcasing collections, brands and the storyline of Utensio. I also made an auto recommendation upsell section in the cart, and a discount banner in the cart. I also enabled the International Store and Payment gateway for the same.
-- **What I did:** Website Designing, Seo Optimisations, Custom Feature and Theme Customisations
+**👉🏻 Tech Stack:** Shopify, Liquid, jQuery, Ajax, CSS3 HTML5<br>
+**👉🏻 Description:** Made this e-commerce website for Utensio in Shopify, Made custom sections for showcasing collections, brands and the storyline of Utensio. I also made an auto recommendation upsell section in the cart, and a discount banner in the cart. I also enabled the International Store and Payment gateway for the same.<br>
+**👉🏻 What I did:** Website Designing, Seo Optimisations, Custom Feature and Theme Customisations
 
 ---
 
 ## 📜 Certifications
 
-- **SEO Expert** - HubSpot Academy
-- **HTML and CSS in Depth by Meta** - Coursera
-- **Version Control by Meta** - Coursera
-- **Programming with JavaScript by Meta** - Coursera
-- **WordPress: SEO** - LinkedIn
-- **Front-End Development by Meta** - Coursera
-- **PHP** - SoloLearn
-- **jQuery** - SoloLearn
+**✅ SEO Expert** - HubSpot Academy<br>
+**✅ HTML and CSS in Depth by Meta** - Coursera<br>
+**✅ Version Control by Meta** - Coursera<br>
+**✅ Programming with JavaScript by Meta** - Coursera<br>
+**✅ WordPress: SEO** - LinkedIn<br>
+**✅ Front-End Development by Meta** - Coursera<br>
+**✅ PHP** - SoloLearn<br>
+**✅ jQuery** - SoloLearn<br>
 
 ---
 
