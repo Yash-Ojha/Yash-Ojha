@@ -22,22 +22,22 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3077C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SEO-FF9900?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3077C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-00BCFF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prisma-16A394?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=liquid&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -47,6 +47,24 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
 ---
 
 ## 🌟 Expertise
+
+### ⚡ Next.js Expertise  
+- Building fast and scalable full-stack applications  
+- Seamless API integration with server-side rendering (SSR) & static site generation (SSG)  
+- Optimized routing and middleware handling  
+- Tailored Next.js component and page development  
+- Ensuring high-performance and SEO-friendly Next.js applications  
+- Mastering incremental static regeneration (ISR) for real-time updates  
+- Smooth integration with Prisma, MySQL, and PostgreSQL  
+
+### ⚛️ React.js Proficiency  
+- Crafting dynamic and interactive React applications  
+- Developing reusable components for efficient UI development  
+- Implementing state management with Redux, Context API, or Zustand  
+- Optimizing React apps for performance and scalability  
+- Seamless API handling with Axios & Fetch  
+- Enhancing user experience with animations and UI libraries (Framer Motion, MUI, Tailwind)  
+- Converting designs (PSD, Figma, Sketch) to pixel-perfect React components  
 
 ### 🚀 Shopify Expertise
 - Shopify Store Setup & Customization
