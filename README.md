@@ -36,7 +36,7 @@ I hold a **Bachelor of Vocational Practice in Information Technology** from Tata
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwind-00BCFF?style=for-the-badge&logo=tailwind&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prisma-00BCFF?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prisma-16A394?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=liquid&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
