@@ -13,6 +13,9 @@
 
 ## 🚀 About Me
 
+#### 🧑🏻‍💻 Senior Web Developer @ Ifox Solutions
+#### 🎓 B.Voc in Software Development @ Tata Institute of Social Sciences
+
 I'm a Software Developer and Designer with a proven track record in the computer software industry. Currently, I serve as a **Senior Web Developer at Ifox Solutions - WordPress & Shopify Experts**, where I leverage my skills to create impactful digital solutions. My expertise spans diverse technological landscapes, including React.Js, Next.js, Shopify, WordPress, Webflow, and both front-end and back-end technologies.
 
 I hold a **Bachelor of Vocational Practice in Information Technology** from Tata Institute of Social Sciences. My passion lies in transforming ideas into robust, user-centric solutions, and I strive to stay at the forefront of technology to deliver cutting-edge results that enhance my clients' online presence.
