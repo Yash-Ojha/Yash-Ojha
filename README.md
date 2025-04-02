@@ -136,7 +136,7 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
 "Code Never Lies Comments Sometimes Do!" - Ron Jefferies
 Happy Coding!!
 
-Connect with me on my <a href="https://linkedin.com/yashrojha/">LinkedIn for Latest Updates</a>
+Connect with me on my <a href="https://linkedin.com/in/yashrojha/">LinkedIn for Latest Updates</a>
 
 ---
 
